@@ -1,5 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=DeboJp&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
+ 
 # 🌟 About Me: 
 >
 <table style="width:100%; border-collapse: collapse; border-color: transparent;">
@@ -36,4 +35,10 @@ And, my data science pursuits has equipped with libraries such as: <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/debojp/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/debojpaul) <br> <br>
 
 
+[![](https://visitcount.itsvg.in/api?id=DeboJP&icon=5&color=1)](https://visitcount.itsvg.in)
+
+ <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<DeboJp>"/>  
+  </div>
 
