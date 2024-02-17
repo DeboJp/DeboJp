@@ -39,6 +39,6 @@ And, my data science pursuits has equipped with libraries such as: <br><br>
 
  <div align="center">
         <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<DeboJp>"/>  
+            src="https://widgetbite.com/stats/DeboJp"/>  
   </div>
 
