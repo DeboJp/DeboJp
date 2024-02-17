@@ -1,5 +1,4 @@
----
-[![](https://visitcount.itsvg.in/api?id=DeboJp&icon=5&color=1)](https://visitcount.itsvg.in) 
+[![](https://visitcount.itsvg.in/api?id=DeboJp&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 # 🌟 About Me: 
 >
