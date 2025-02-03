@@ -19,7 +19,7 @@
 </table>
 
 
-## ✨:
-> Connect with me! <br> <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/debojp/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/debojpaul) <br>
->Learn More: [DeboJyotiPaul](https://debojp.github.io/)
+### ✨: Connect with me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/debojp/)&nbsp;:-&nbsp;linkedin.com/in/debojp &nbsp;&nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/debojpaul)&nbsp;:-&nbsp; @debojpaul &nbsp;&nbsp; Gmail: debojp@wisc.edu <br>
+
+### Learn More: [Personal Website :- DeboJyotiPaul](https://debojp.github.io/)
