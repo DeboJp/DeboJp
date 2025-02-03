@@ -1,12 +1,12 @@
  
-# 🌟 About Me: 
+# WELCOME SIDEQUESTERS: 
 >
   <tr>
     <!-- Left side with text, centered and without visible borders -->
-  🎓 Hello! I am student currently pursuing a bachelors of Science in Computer Science and Data  <br><br>
-  👩‍💻 On a mission to demystify the journey into software development, creating welcoming spaces for newcomers in tech. <br><br>
-  🚀 Currently, I'm diving deep into the AI wave, enriching my knowledge in AI, particularly RL, and NLP through courses and hands-on research alike. <br><br>
-  🎹 Outside the world of code, you'll find me exploring the melodies of the piano or discovering hidden gems in my city. 
+  I am student currently pursuing a bachelors of Science in Computer Science and Data  <br><br>
+  On a mission to demystify the journey into software development, creating welcoming spaces for newcomers in tech. <br><br>
+  Currently, I'm finding ways to enriching my knowledge in AI, in ML/DL, NLP, and CV through courses and hands-on research alike. <br><br>
+  Feel free to look around here, I am not usually active here, however, if you find something interesting or want to collaborate feel free to reach out!  :) <br><br>
     </td>
     </td>
   </tr>
