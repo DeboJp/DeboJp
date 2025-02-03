@@ -3,10 +3,14 @@
 >
   <tr>
     <!-- Left side with text, centered and without visible borders -->
-  I am student currently pursuing a bachelors of Science in Computer Science and Data  <br><br>
-  On a mission to demystify the journey into software development, creating welcoming spaces for newcomers in tech. <br><br>
+   
+  👋 Hello, I am a software engineer currently pursuing a Bachelors of Science in Computer Science and Data Science. <br><br>
+   💡 **About Me:** <br><br>
+  On a mission to demystify the journey into software engineering, creating welcoming spaces for newcomers in tech. <br><br>
+  &nbsp; &nbsp; → &nbsp; &nbsp; I have been always interested about the intersection of healthcare and business industries with Comoputer Sciences and now AI. <br><br>
   Currently, I'm finding ways to enriching my knowledge in AI, in ML/DL, NLP, and CV through courses and hands-on research alike. <br><br>
-  Feel free to look around here, I am not usually active here, however, if you find something interesting or want to collaborate feel free to reach out!  :) <br><br>
+   🔍 **Collaboration?**  <br><br>
+  Feel free to look around here, I am not usually active here, however, if you find something interesting or want to collaborate feel free to reach out! 🙂 <br><br>
     </td>
     </td>
   </tr>
