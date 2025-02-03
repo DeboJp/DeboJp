@@ -8,7 +8,7 @@
    💡 **About Me:** <br><br>
   On a mission to demystify the journey into software engineering, creating welcoming spaces for newcomers in tech. <br><br>
   &nbsp; &nbsp; → &nbsp; &nbsp; I have been always interested about the intersection of healthcare and business industries with Comoputer Sciences and now AI. <br><br>
-  Currently, I'm finding ways to enriching my knowledge in AI, in ML/DL, NLP, and CV through courses and hands-on research alike. <br><br>
+  Currently, I'm finding ways to enrich my knowledge in AI, in ML/DL, NLP, and CV through courses and hands-on research alike. <br><br>
   So far I've been lucky to have gotten experience is **frontend**, **backend**, **databases**, **cloud**, **concurrency** & **distributed systems**, **machine learning(ML)**, **natural language processing(NLP)**, **computer vision(CV)**, some permutations of all of these combined(**fullstack**) and a little bit of **research**.
   
    🔍 **Collaboration?**  <br><br>
